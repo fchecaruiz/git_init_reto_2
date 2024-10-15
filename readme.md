@@ -43,3 +43,4 @@ git merge nombre de la rama + enter(fusiona la rama con la main).
 - y por el ultimo, cuando trabajamos con mucos archivos y lo svamos modificando, hay siempre algunos archivos
 que no queremos enviar a git hub y los queremos guardar en local. Para esto hay que abrir una carpeta (aconsejable antes de haer el STAGE) CON GIT IGNORE y ahi meter los archivos de forma manual, indicando el nombre de los archivos que queremos reservar para nosotros 
 git ignore + enter 
+# FIN DE LA EXPLICACION DE HACER UN GIT 
